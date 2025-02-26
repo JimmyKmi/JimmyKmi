@@ -2,6 +2,3 @@
 - 👀 I’m interested in designing, cooking, swimming, travelling
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on all kind of things, if you have an Idea to create something amazing, contact me!
-- 
-- email: jimmy@lzj.ac.cn
-- *NO ADS!
